@@ -147,6 +147,5 @@ OR sls_sales != sls_price * sls_quantity
 ORDER BY sls_sales,
     sls_quantity,
     sls_price;
-
-SELECT * FROM silver.crm_sales_details;
 ---------------------------------------
+
