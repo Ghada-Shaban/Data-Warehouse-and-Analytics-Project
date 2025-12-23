@@ -20,7 +20,6 @@ Usage Notes:
 -- ====================================================================
 -- Checking 'silver.crm_cust_info'
 -- ====================================================================
-
 -- Check for nulls or duplicates in the PK
 -- Expectation : No Result
 SELECT
@@ -63,7 +62,6 @@ FROM silver.crm_cust_info;
 -- ====================================================================
 -- Checking 'silver.crm_prd_info'
 -- ====================================================================
-
 -- Check for nulls or duplicates in the PK
 -- Expectation : No Result
 SELECT
@@ -111,7 +109,6 @@ WHERE prd_end_dt < prd_start_dt;
 -- ====================================================================
 -- Checking 'silver.crm_sales_details'
 -- ====================================================================
-
 -- Check For Invalid Dates
 -- Expectation : No Result
 
@@ -171,7 +168,13 @@ FROM silver.erp_cust_az12
 -- ====================================================================
 -- Checking 'silver.erp_loc_a101'
 -- ====================================================================
+-- Check Data Standardization & Consistency
+SELECT DISTINCT
+cntry
+FROM silver.erp_loc_a101;
+---------------------------------------
 
 -- ====================================================================
 -- Checking 'silver.erp_px_cat_g1v2'
 -- ====================================================================
+
