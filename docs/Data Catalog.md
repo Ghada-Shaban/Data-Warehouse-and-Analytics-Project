@@ -40,7 +40,7 @@ All views are based on transformations and joins from the Silver layer.
 | category        | NVARCHAR(50)     | The broader classification of the product (e.g., Bikes, Components) to group related items                                              |
 | subcategory     | NVARCHAR(50)     | A more detailed classification of the product within the category                                          |
 | maintenance     | NVARCHAR(50)      | Indicates whether the product requires maintenance (e.g., 'Yes', 'No')                          |
-| cost            | INT               | Product cost                                                        |
+| cost            | INT               | Product cost or base price of the product                                                        |
 | product_line    | NVARCHAR(50)      |The specific product line or series to which the product belongs (e.g.,Road, Mountain , Touring..)       |
 | start_date      | DATE              | Date when this product version became active                        |
 
