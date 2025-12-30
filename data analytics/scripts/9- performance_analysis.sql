@@ -8,7 +8,7 @@ Purpose:
     - To track yearly trends and growth.
 
 SQL Functions Used:
-     YEAR(),
+      SUM(),YEAR()
     - LAG(): Accesses data from previous rows.
     - AVG() OVER(): Computes average values within partitions.
     - CASE: Defines conditional logic for trend analysis.
