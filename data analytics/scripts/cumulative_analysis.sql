@@ -10,6 +10,7 @@ Purpose:
 SQL Functions Used:
     - Date Functions: YEAR(),DATETRUNC()
     - Window Functions: SUM() OVER(), AVG() OVER()
+    - Aggregate Functions: SUM(), AVG()
 ===============================================================================
 */
 
