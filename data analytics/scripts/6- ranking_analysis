@@ -7,7 +7,9 @@ Purpose:
     - To identify top performers or laggards.
 
 SQL Functions Used:
-    - Window Ranking Function:ROW_NUMBER(),TOP
+    - Window Ranking Function:ROW_NUMBER()
+    - Aggregate Functions: SUM()
+        ,TOP
     - Clauses: GROUP BY, ORDER BY
 ===============================================================================
 */
