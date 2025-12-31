@@ -40,7 +40,8 @@ SELECT
 	DATEDIFF(year,c.birthdate,GETDATE()) AS customer_age
 FROM gold.fact_sales f
 LEFT JOIN gold.dim_customers c
-ON f.customer_key = c.customer_key)
+ON f.customer_key = c.customer_key
+WHERE order_date IS NOT NULL)
 
 ,customer_aggregation AS(
 
