@@ -19,15 +19,15 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 # 📝🔍 BI: Analytics & Reporting (Data Analysis)
 
----
 
-## Problem Statement
+
+## ❗Problem Statement
 After years of steady growth, the company faced a **catastrophic revenue collapse in Q1 2014**, with sales dropping to nearly zero following a peak in **Q4 2013**.  
 The severity and suddenness of this decline threaten business continuity and signal a **critical breakdown** that requires immediate, data-driven diagnosis.
 
 ---
 
-##  Key Business Questions
+## 🧐 Key Business Questions
 
 - What are the overall trends in **revenue, profit, costs, and sales volume** from 2010–2014?
 - How has performance changed in the **most recent periods**?
