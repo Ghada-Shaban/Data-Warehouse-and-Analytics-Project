@@ -1,5 +1,5 @@
 
-## Dashboard Insights
+## 📊 Dashboard Insights
 
 ### 1. Sales Overview
 
