@@ -46,5 +46,5 @@ The severity and suddenness of this decline threaten business continuity and sig
 ## 🔗 Project Documentation
 
 - [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRhNWY3MmQtMDdjMS00NzY3LWIzODMtNDk4OWQxYmJlNjFhIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
-- [Insights](./dataanalytics/Insights.md)
-- [Recommendations](./dataanalytics/Recommendations.md)
+- [Insights](./data_analytics/Insights.md)
+- [Recommendations](./data_analytics/Recommendations.md)
