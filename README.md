@@ -17,12 +17,27 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 # BI: Analytics & Reporting (Data Analysis)
- **Objective**
 
-Develop SQL-based analytics to deliver detailed insights into:
+---
 
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
-  
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+## 1️⃣ Problem Statement
+After years of steady growth, the company faced a **catastrophic revenue collapse in Q1 2014**, with sales dropping to nearly zero following a peak in **Q4 2013**.  
+The severity and suddenness of this decline threaten business continuity and signal a **critical breakdown** that requires immediate, data-driven diagnosis.
+
+---
+
+## 2️⃣ Key Business Questions
+
+- What are the overall trends in **revenue, profit, costs, and sales volume** from 2010–2014?
+- How has performance changed in the **most recent periods**?
+- To what extent does the business depend on **specific products, markets, or customer types**?
+- Are there signs of changing **customer engagement**, such as repeat purchases or segment shifts?
+- What **seasonal, cyclical, or monthly patterns** appear in the data, and how do they impact performance?
+- How do **growth rates** behave during expansion versus contraction periods?
+
+---
+## 3️⃣ Tools
+- SQL (SQL Server)
+- Power Query
+- Power BI
+- Data Modeling 
