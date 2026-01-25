@@ -41,10 +41,10 @@ The severity and suddenness of this decline threaten business continuity and sig
 - Power Query
 - Power BI
 - Data Modeling
-  
+- 
   ---
-  ## 🔗 Project Documentation
+## 🔗 Project Documentation
 
 - [Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRhNWY3MmQtMDdjMS00NzY3LWIzODMtNDk4OWQxYmJlNjFhIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
-- [Insights](./data analytics/Insights.md)
-- [Recommendations](./data analytics/Recommendations.md)
+- [Insights](./dataanalytics/Insights.md)
+- [Recommendations](./dataanalytics/Recommendations.md)
