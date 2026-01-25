@@ -40,7 +40,7 @@
 ➡️ Balanced market appeal
 
 ---
-
+---
 ### 2. Customer Analysis
 
 #### 👤 Executive Summary
@@ -78,7 +78,7 @@
 ➡️ High exposure risk if key accounts are lost
 
 ---
-
+---
 ### 3. Product Analysis
 
 #### 📦 Executive Summary
@@ -116,7 +116,7 @@
 ➡️ High SKU-level dependency risk
 
 ---
-
+---
 ### 4. Time Analysis
 
 #### ⏱ Revenue Trend (YTD & Monthly)
