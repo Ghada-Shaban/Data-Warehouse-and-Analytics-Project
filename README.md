@@ -41,7 +41,7 @@ The severity and suddenness of this decline threaten business continuity and sig
 - Power Query
 - Power BI
 - Data Modeling
-- 
+  
   ---
 ## 🔗 Project Documentation
 
