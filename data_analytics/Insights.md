@@ -1,7 +1,7 @@
 
 ## Dashboard Insights
 
-### 1 Sales Overview
+### 1. Sales Overview
 
 #### 📊 Executive Summary
 - **Total Revenue:** $29.35M  
@@ -41,7 +41,7 @@
 
 ---
 
-### 2 Customer Analysis
+### 2. Customer Analysis
 
 #### 👤 Executive Summary
 - **Total Customers:** 18K  
@@ -79,7 +79,7 @@
 
 ---
 
-### 3 Product Analysis
+### 3. Product Analysis
 
 #### 📦 Executive Summary
 - **Total Revenue:** $29.35M  
@@ -117,7 +117,7 @@
 
 ---
 
-### 4 Time Analysis
+### 4. Time Analysis
 
 #### ⏱ Revenue Trend (YTD & Monthly)
 - Steady accumulation from 2010–2013 (~$16M by end of 2013)
