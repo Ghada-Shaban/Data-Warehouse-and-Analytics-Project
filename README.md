@@ -16,14 +16,16 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - **Integration:** Combine both sources into a single, user-friendly data model designed for analytical queries.
 - **Scope:** Focus on the latest dataset only; historization of data is not required.
 - **Documentation:** Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+---
+
 
 # 📝🔍 BI: Analytics & Reporting (Data Analysis)
 
 
 
 ## ❗Problem Statement
-After years of steady growth, the company faced a **catastrophic revenue collapse in Q1 2014**, with sales dropping to nearly zero following a peak in **Q4 2013**.  
-The severity and suddenness of this decline threaten business continuity and signal a **critical breakdown** that requires immediate, data-driven diagnosis.
+- After years of steady growth, the company faced a **catastrophic revenue collapse in Q1 2014**, with sales dropping to nearly zero following a peak in **Q4 2013**.  
+- The severity and suddenness of this decline threaten business continuity and signal a **critical breakdown** that requires immediate, data-driven diagnosis.
 
 ---
 
