@@ -1,4 +1,4 @@
-## Recommendations
+## 🚀 Recommendations
 
 ### 🔁 Fix Customer Retention Immediately
 - Win-back campaigns targeting 2013 churned customers
