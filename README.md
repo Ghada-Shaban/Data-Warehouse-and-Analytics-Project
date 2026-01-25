@@ -40,4 +40,8 @@ The severity and suddenness of this decline threaten business continuity and sig
 - SQL (SQL Server)
 - Power Query
 - Power BI
-- Data Modeling 
+- Data Modeling
+  
+  ---
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzRhNWY3MmQtMDdjMS00NzY3LWIzODMtNDk4OWQxYmJlNjFhIiwidCI6IjJiYjZlNWJjLWMxMDktNDdmYi05NDMzLWMxYzZmNGZhMzNmZiIsImMiOjl9)
+
