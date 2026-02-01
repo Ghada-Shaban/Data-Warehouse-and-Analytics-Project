@@ -46,6 +46,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 - Power Query
 - Power BI
 - Data Modeling
+- DAX
 
 ---
 # 🔗 Project Documentation
