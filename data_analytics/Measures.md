@@ -1,7 +1,5 @@
 # Measures Documentation — Sales Analysis
 
-Generated from: Sales Analysis.pbix
-
 This document lists each measure with a business-friendly name, a short description of the business logic, and the DAX expression.
 
 ---
@@ -506,9 +504,3 @@ SELECTEDVALUE('NO.Customers'[#Customers])
 
 ---
 
-
-## Notes & Next Steps
-- Several measures rely on helper measures/functions not listed here (`diffFromLY`, `mom`, `ytd_`, `arrows`, `color`, `color_cost`). If you want, I can extract and document those helper measures/functions too and include example implementation.
-- I wrote this file to: `Sales Analysis-measures-export/MEASURES_DOCUMENTATION.md` next to your PBIX.
-
-If you'd like any descriptions reworded for a particular audience (executive summary vs analyst detail), tell me which tone and I will update the document.
