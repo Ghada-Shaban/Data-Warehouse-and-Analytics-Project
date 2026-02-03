@@ -1,10 +1,10 @@
-# Measures Documentation — Sales Analysis
+# 📈🗂️ Measures
 
 This document lists each measure with a business-friendly name, a short description of the business logic, and the DAX expression.
 
 ---
 
-## Revenue — Total Revenue
+## Revenue (Total Revenue)
 - Table: DAX measures
 - Business description: Total sales value for the selected context (sum of sales amounts).
 
@@ -14,7 +14,7 @@ SUM('gold fact_sales'[sales_amount])
 
 ---
 
-## Quantity — Total Quantity Sold
+## Quantity (Total Quantity Sold)
 - Table: DAX measures
 - Business description: Total number of items/units sold in the selected context.
 
@@ -503,4 +503,5 @@ SELECTEDVALUE('NO.Customers'[#Customers])
 ```
 
 ---
+
 
